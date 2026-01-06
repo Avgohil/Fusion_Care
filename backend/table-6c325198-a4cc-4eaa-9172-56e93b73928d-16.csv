@@ -1,0 +1,26 @@
+﻿Column,Description
+patient_id,Unique ID
+prakriti_type,From Stage 1 (prakriti_predictions.pkl)
+age,Age (20–90)
+gender,Male / Female
+diet_type,Balanced / Irregular / Junk
+sleep_quality,Good / Average / Poor
+stress_level,Low / Medium / High
+physical_activity,Active / Moderate / Sedentary
+memory_loss,None / Mild / Severe
+confusion,Rare / Sometimes / Often
+language_difficulty,No / Mild / Yes
+decision_making,Sharp / Indecisive / Poor
+repetition_behavior,No / Sometimes / Yes
+social_withdrawal,No / Sometimes / Yes
+mood_swings,No / Sometimes / Yes
+chronic_conditions,None / Diabetes / BP / Both
+systolic_bp,Integer (90–160)
+blood_sugar,Integer (70–200)
+bmi,Float (16–35)
+family_history,Yes / No
+risk_score,Float (0–100)
+risk_level,Low / Medium / High
+verdict,Based on score + symptoms
+ayurveda_recommendations,Personalized herbal &amp; lifestyle advice
+allopathy_recommendations,Clinical screening &amp; treatment suggestions
